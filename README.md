@@ -22,7 +22,7 @@
 <link rel="apple-touch-icon" href="https://i.ibb.co/tJ7D1BB/IMG-20220514-165310-501.jpg?fit=180%2C180&#038;ssl=1" />
 <meta name="msapplication-TileImage" content="https://i.ibb.co/tJ7D1BB/IMG-20220514-165310-501.jpg?fit=270%2C270&#038;ssl=1" />
     <link rel="stylesheet" href="./style.css">
-    <script src="./script.js" defer></script>
+    <script type="text/javascript" src="./script.js"></script>
 </head>
 <body>
     <nav>
