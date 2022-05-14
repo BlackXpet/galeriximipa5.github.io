@@ -21,8 +21,8 @@
 <link rel="icon" href="https://i.ibb.co/tJ7D1BB/IMG-20220514-165310-501.jpg?fit=192%2C192&#038;ssl=1" sizes="192x192" />
 <link rel="apple-touch-icon" href="https://i.ibb.co/tJ7D1BB/IMG-20220514-165310-501.jpg?fit=180%2C180&#038;ssl=1" />
 <meta name="msapplication-TileImage" content="https://i.ibb.co/tJ7D1BB/IMG-20220514-165310-501.jpg?fit=270%2C270&#038;ssl=1" />
-    <link rel="stylesheet" href="http://localhost:2435/storage/emulated/0/Happy+Eid+Mubarak/style.css">
-    <script src="http://localhost:2435/storage/emulated/0/Happy+Eid+Mubarak/script.js" defer></script>
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js" defer></script>
 </head>
 <body>
     <nav>
